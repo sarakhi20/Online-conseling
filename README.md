@@ -19,6 +19,7 @@ The web application, built using ReactJS, is designed to assist students in maki
 - User-friendly interface for easy navigation
 - User profile customization options
 - Easy access to previous chat history
+- Light/dark mode toggle
 
 
 ## Installation
