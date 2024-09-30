@@ -116,6 +116,7 @@ const [showPopup,setShowPopup]=useState(false)
       pricingSectionRef.current.scrollIntoView({ behavior: 'smooth' });
     }
   };
+  
 
 
   return (
