@@ -91,7 +91,7 @@ const Contact = () => {
               <h1 style={{ fontSize: "20px" }}>Customer Support</h1>
               <p>
                 Our Support Team is available around the clock to address any
-                concerns or queries.
+                concerns or queries with zoom call.
               </p>
             </div>
             <div className="left1">
